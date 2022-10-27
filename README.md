@@ -24,7 +24,7 @@ Para ejecutar, debemos ingresar en el directorio y ejecutar los comandos desde a
 ## Authors
 👤 **Mauricio**
 
-- Github: [@molro] (https://github.com/molro)
+- Github: [@molro](https://github.com/molro)
 
 
 
